@@ -1,7 +1,7 @@
 {
     "name": "janderson.anjos/mob-loader",
     "description": "Pacote de login com css e js para uso no MOB",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "autoload": {
         
