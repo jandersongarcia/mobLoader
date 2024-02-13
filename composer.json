@@ -4,7 +4,9 @@
     "type": "library",
     "license": "MIT",
     "autoload": {
-        
+        "psr-4": {
+            "MobLoader\\": "src/"
+        }
     },
     "authors": [
         {
@@ -12,5 +14,8 @@
             "email": "70637518+jandersongarcia@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "extra": {
+        "installer-name": "packages/mob-loader"
+    }
 }
