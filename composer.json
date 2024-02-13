@@ -1,0 +1,16 @@
+{
+    "name": "janderson.anjos/mob-loader",
+    "description": "Pacote de login com css e js para uso no MOB",
+    "type": "metapackage",
+    "license": "MIT",
+    "autoload": {
+        
+    },
+    "authors": [
+        {
+            "name": "Janderson Garcia",
+            "email": "70637518+jandersongarcia@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
