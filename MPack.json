@@ -1,5 +1,5 @@
 {
-    "packge-name": "mobLoader",
+    "package-name": "mobLoader",
     "type": "preloader",
     "files": {
         "css": "mobLoader.css",

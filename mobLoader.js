@@ -6,9 +6,11 @@ function loadStart() {
 }
 
 // Função para realizar o fade-out
-function fadeOut() {
+function loadClose() {
     loader.classList.add('fadeOut');
     setInterval(function () {
         loader.style.display = 'none'
-    }, 2000);
+    }, 3000);
 }
+
+setInterval(function () { loadClose()}, 500);
